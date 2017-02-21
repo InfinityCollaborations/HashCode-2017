@@ -5,11 +5,11 @@ a multi language solution to the pizza problem statement
 
 To manipulate java Files :
 
-Pizza
+https://github.com/1nf1del/GoogleHashCode2017#pizza
 
 Practice problem for the Google HashCode 2017.
 
-Effectiveness's for v0.02
+https://github.com/1nf1del/GoogleHashCode2017#effectivenesss-for-v002
 
 Slicing of: example, small, medium slices took 10m 39 seconds on a MacBookPro Results:
 
@@ -19,17 +19,17 @@ medium 33037
 big - too long to slicing. Was ran once from the commit and took about 20 hours.(a desktop PC with an Intel-I54670K)
 original assignment - Task.pdf
 input data sets
-Prerequisites
+https://github.com/1nf1del/GoogleHashCode2017#prerequisites
 
 Java 1.8
 maven 3
-Run
+https://github.com/1nf1del/GoogleHashCode2017#run
 
 To build and run the application execute:
 
    mvn clean install 
    mvn exec:java -Dexec.mainClass="com.google.hashcode.App"
-Submit task automation
+https://github.com/1nf1del/GoogleHashCode2017#submit-task-automation
 
 Google provides an online mechanism to check the task results. It requires:
 
@@ -38,7 +38,7 @@ at least one output file
 To zip the source code execute :
 
 ./zipSourceCode.sh
-Deprecated
+https://github.com/1nf1del/GoogleHashCode2017#deprecated
 
 To automate interaction with online submission can be used SeleniumIDE with a firefox browser.
 
@@ -51,7 +51,7 @@ execute the test case and see scores on web. See the video instruction on YouTub
 
 
 
-To manipulate python files : 
+#To manipulate python files : 
 
 Option 1: Call the interpreter
 
