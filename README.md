@@ -1,6 +1,6 @@
 #HashCode-2017
 ![google hash code logo](./documentation/logo.png)
-	hash tags: #hashcode #2017 #googleHashCode 
+	                                                          hash tags: #hashcode #2017 #googleHashCode 
 	
 [![Join the chat at https://gitter.im/GoogleHashCode2017/Lobby](https://badges.gitter.im/GoogleHashCode2017/Lobby.svg)](https://gitter.im/GoogleHashCode2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/LyashenkoGS/GoogleHashCode2017.svg?branch=master)](https://travis-ci.org/LyashenkoGS/GoogleHashCode2017)
