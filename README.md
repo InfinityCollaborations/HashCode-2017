@@ -1,5 +1,5 @@
 #HashCode-2017
-![google hash code logo](./documentation/logo.png)
+![google hash code logo](HashCode-2017/GoogleHashCode2017/documentation/logo.png)
 	                                                          hash tags: #hashcode #2017 #googleHashCode 
 	
 [![Join the chat at https://gitter.im/GoogleHashCode2017/Lobby](https://badges.gitter.im/GoogleHashCode2017/Lobby.svg)](https://gitter.im/GoogleHashCode2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
