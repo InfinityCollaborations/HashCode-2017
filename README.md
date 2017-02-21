@@ -1,5 +1,5 @@
 # GoogleHashCode2017  
-![google hash code logo](./documentation/logo.png)
+![google hash code logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhashcode.withgoogle.com%2Fresources%2Fsocial%2Ftwitter_v1.png&imgrefurl=https%3A%2F%2Fhashcode.withgoogle.com%2F&docid=kvVmAg5ubeuWcM&tbnid=w16SEaNEOpDJmM%3A&vet=1&w=240&h=240&bih=626&biw=1366&q=Google%20hash%20code%20logo&ved=0ahUKEwik-M3Lj6LSAhWDCMAKHQK8DxoQMwgcKAEwAQ&iact=mrc&uact=8)
 hash tags: #hashcode #2017 #googleHashCode 
 [![Join the chat at https://gitter.im/GoogleHashCode2017/Lobby](https://badges.gitter.im/GoogleHashCode2017/Lobby.svg)](https://gitter.im/GoogleHashCode2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/LyashenkoGS/GoogleHashCode2017.svg?branch=master)](https://travis-ci.org/LyashenkoGS/GoogleHashCode2017)
