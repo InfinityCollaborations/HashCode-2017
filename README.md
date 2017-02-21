@@ -1,5 +1,5 @@
 # HashCode-2017  
-![google hash code logo](HashCode-2017/logo.png)
+![HashCode logo](HashCode-2017/logo.png)
 
                           hash tags: #hashcode #2017 #googleHashCode 
 
