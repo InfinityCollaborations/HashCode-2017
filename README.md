@@ -53,11 +53,12 @@ To automate interaction with online submission can be used [SeleniumIDE](https:/
 
 #To manipulate python files : 
 
-Option 1: Call the interpreter
+#Option 1: Call the interpreter
 
 For Python 2: python <filename>.py
 For Python 3: python3 <filename>.py
-Option 2: Let the script call the interpreter
+
+#Option 2: Let the script call the interpreter
 
 Make sure the first line of your file has #!/usr/bin/env python.
 Make it executable - chmod +x <filename>.py.
