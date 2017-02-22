@@ -1,7 +1,6 @@
-#HashCode-2017
-![google hash code logo](HashCode-2017/GoogleHashCode2017/documentation/logo.png)
-	                                                          hash tags: #hashcode #2017 #googleHashCode 
-	
+# GoogleHashCode2017  
+![google hash code logo](./documentation/logo.png)
+hash tags: #hashcode #2017 #googleHashCode 
 [![Join the chat at https://gitter.im/GoogleHashCode2017/Lobby](https://badges.gitter.im/GoogleHashCode2017/Lobby.svg)](https://gitter.im/GoogleHashCode2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/LyashenkoGS/GoogleHashCode2017.svg?branch=master)](https://travis-ci.org/LyashenkoGS/GoogleHashCode2017)
 
@@ -50,17 +49,3 @@ To automate interaction with online submission can be used [SeleniumIDE](https:/
 * execute the test case and see scores on web. See the [video instruction on YouTube](https://www.youtube.com/watch?v=Wg7s3CtIeCs&feature=youtu.be)
 
 
-
-
-#To manipulate python files : 
-
-#Option 1: Call the interpreter
-
-For Python 2: python <filename>.py
-For Python 3: python3 <filename>.py
-
-#Option 2: Let the script call the interpreter
-
-Make sure the first line of your file has #!/usr/bin/env python.
-Make it executable - chmod +x <filename>.py.
-And run it as ./<filename>.py
