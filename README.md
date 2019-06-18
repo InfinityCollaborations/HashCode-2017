@@ -15,8 +15,8 @@ Results:
  * example 6
  * small 30
  * medium 33037
- * big - too long to slicing. Was ran once 
- from  the commit and took about 20 hours.(a desktop PC with an Intel-I54670K)
+ * big - Repaired. Was ran Clustered accross the kernel 
+ from  the commit and took about 18.05 MINUTES.(a desktop PC with an Experimental GPU and a Core i7 4700 MQ )
   
  
 * original assignment - [Task.pdf](./documentation/TaskDescription.pdf)
