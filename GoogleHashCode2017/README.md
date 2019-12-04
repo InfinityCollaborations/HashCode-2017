@@ -8,20 +8,19 @@ hash tags: #hashcode #2017 #googleHashCode
 Practice problem for the Google HashCode 2017.
 
 ##Effectiveness's for v0.02
-Slicing of: example, small, medium slices took  10m 39 seconds on a MacBookPro
+Slicing of: example, small, medium slices took 2 Minutes on the Dell Workstation (
 Results:
  * example 6
  * small 30
  * medium 33037
- * big - too long to slicing. Was ran once 
- from  the commit and took about 20 hours.(a desktop PC with an Intel-I54670K)
+ * big - Was ran clustered  
+ from  the commit and took 18.18 Minutes Accurateley Displaying a principle of the slicing method .(A Reurbished Experimental Workstation from Dell (Dell Precision M4800 (Nvidia K2100M Quadro GPU )
   
  
 * original assignment - [Task.pdf](./documentation/TaskDescription.pdf)
 * [input data sets](./inputDataSets)
 
 ##Prerequisites
-
 * Java 1.8
 * maven 3
 
@@ -47,5 +46,3 @@ To automate interaction with online submission can be used [SeleniumIDE](https:/
 * login  to the [submission page](https://hashcodejudge.withgoogle.com/#/rounds/6553823069863936/submissions/)
 * setup selenium test suite(submitResultsViaSelenium) according to yours file system 
 * execute the test case and see scores on web. See the [video instruction on YouTube](https://www.youtube.com/watch?v=Wg7s3CtIeCs&feature=youtu.be)
-
-
