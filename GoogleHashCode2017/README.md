@@ -41,7 +41,7 @@ To zip the source code execute :
     
     
 ## Deprecated
-To automate interaction with online submission can be used [SeleniumIDE](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/)
+To automate interaction with online submission [SeleniumIDE](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/) can be done
  with a firefox browser.
 * login  to the [submission page](https://hashcodejudge.withgoogle.com/#/rounds/6553823069863936/submissions/)
 * setup selenium test suite(submitResultsViaSelenium) according to yours file system 
